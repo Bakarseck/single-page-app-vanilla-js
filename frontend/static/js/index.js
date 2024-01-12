@@ -61,3 +61,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     router();
 });
+
+let socket = new WebSocket("ws://localhost:8080/ws");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
